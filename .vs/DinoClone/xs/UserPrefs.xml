@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{82362F2C-BADD-9754-C4E0-D743B0637591}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a01542d5-44d3-4d46-8c9f-6b747b002005" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dinosaur.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Dinosaur.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Scroll.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/ObstacleSpawner.cs" Line="33" Column="3" />
+      <File FileName="Assets/Scripts/GroundRepeat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="37" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DinoClone" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
